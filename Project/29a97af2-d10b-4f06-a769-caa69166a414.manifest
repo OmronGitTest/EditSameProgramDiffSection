@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Manifest manifestSchemaVersion="1" modelSchemaVersion="1">
+  <Application applicationName="sysmac" applicationVersion="Infinity" />
+  <Solution solutionName="EditSameProgramDiffSection" id="29a97af2-d10b-4f06-a769-caa69166a414" trackingId="9c9943ca-5abc-4682-9b66-9e08dc1149a9" solutionSchemaVersion="2">
+    <ApplicationFeatures>
+      <ApplicationFeature name="V102Project" />
+      <ApplicationFeature name="SetUnit NJ501-1500 Ver. 1.16" />
+      <ApplicationFeature name="TransferInfoAndBuildResultsEntitiesReduced" />
+    </ApplicationFeatures>
+  </Solution>
+</Manifest>

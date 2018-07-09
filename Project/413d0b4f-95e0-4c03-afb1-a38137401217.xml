@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PC21ConfigurationData>
+  <Header>
+    <Name>NexPC21Configuration.PC21ConfigurationSubstance</Name>
+    <CreateDateTime>Mon, 09 Jul 2018 09:03:38 GMT</CreateDateTime>
+    <Version>1.00</Version>
+  </Header>
+  <ClassInfo>
+    <Type>NexPC21Configuration</Type>
+    <SubType>PC21ConfigurationSubstance</SubType>
+  </ClassInfo>
+  <Data>
+    <BusNetwork BusNetworkID="2e0db1fb-c226-4a4a-bf80-71e1c67de00f" />
+    <CPUUnit UnitType="CPUUnit" MdlNm="NJ501-1500" MajorVer="1" MinorVer="16" UnitName="" UtNum="65535" RkNum="11" StNum="0" ProfileID="NJ501-1500_Ver1_16" IODeviceID="3fd11d75-df08-4adf-a3be-f789e58cb33c" TrackingID="" />
+    <UnitList>
+      <Rack Type="CUPRack" RackNum="0" IODeviceID="69b0268a-3211-40c7-8728-f6c17b718e71" TrackingID="72b4ed72-b696-430f-b5d5-c46775c65382">
+        <Slot UnitType="PSUnit" MdlNm="NJ-Px3001" MajorVer="1" MinorVer="0" UnitName="" UtNum="65535" RkNum="0" StNum="0" ProfileID="NJ-Px3001_Ver0_0" IODeviceID="" TrackingID="" />
+        <Slot UnitType="EndCover" MdlNm="CJ1W-TER01" MajorVer="1" MinorVer="0" UnitName="" UtNum="65535" RkNum="0" StNum="0" ProfileID="CJ1W-TER01_Ver0_0" IODeviceID="" TrackingID="" />
+      </Rack>
+    </UnitList>
+    <UnitParameters />
+    <UnitIOPorts />
+  </Data>
+</PC21ConfigurationData>
